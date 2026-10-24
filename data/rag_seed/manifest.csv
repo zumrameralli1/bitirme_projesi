@@ -1,0 +1,4 @@
+﻿source_id,title,local_file,official_url,rag_status
+cap_yandal,Çift Anadal ve Yan Dal Programları Yönergesi,data/rag_seed/cap_yandal.txt,https://oidb.bakircay.edu.tr/Yuklenenler/%C3%87ift_Anadal_ve_Yan_dal_Programla.2025-%2834-01%29%20senato%20karar%C4%B1.pdf,pilot_candidate_pending_final_verification
+diploma,"Diploma, Diploma Eki ve Diğer Belgelerin Düzenlenmesine İlişkin Yönerge",data/rag_seed/diploma.txt,https://oidb.bakircay.edu.tr/Yuklenenler/Diploma_Diploma_Eki_ve_Di%C4%9Fer_26_.2025%2834-03%29.pdf,pilot_candidate_pending_final_verification
+katki_payi_2026_2027,2026-2027 Eğitim-Öğretim Yılı Dönemlik Katkı Payı Ücretleri,data/rag_seed/katki_payi_2026_2027.txt,https://oidb.bakircay.edu.tr/upload/sayfa/1713/2026-2027_katki_paylari_pdf.pdf,pilot_candidate_pending_final_verification

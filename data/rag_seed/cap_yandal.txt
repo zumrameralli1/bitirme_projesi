@@ -1,0 +1,229 @@
+SOURCE_FILE: bakırçay üni öğrenci işleri ve akademik süreçler data/cift_anadal_ve_yan_dal_programla.2025-(34-01)_senato_karari.pdf
+CATEGORY: ogrenci_isleri
+SHA256: 91ceb55a712eebe05abffc5cfd6d207127a62078fabf8962c19266de65683163
+
+[Sayfa 1]
+T.C.
+İZMİR BAKIRÇAY ÜNİVERSİTESİ
+ÇİFT ANADAL VE YAN DAL PROGRAMLARI YÖNERGESİ
+
+
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Tanımlar ve Genel İlkeler
+Amaç
+Madde 1 - (1) Bu Yönergenin amacı, İzmir Bakırçay Üniversitesi’nin ön lisans ve lisans diploma
+programlarında kayıtlı olan öğrencilerin Çift Anadal ve Yan dal Programlarında öğrenim görmelerine ilişkin
+usul ve esasları düzenlemektir.
+Kapsam
+Madde 2 - (1) Bu Yönerge, İzmir Bakırçay Üniversitesi’nde Çift Anadal ve/veya Yan dal öğrenimine
+ilişkin hükümleri kapsar.
+Dayanak
+Madde 3 - (1) Bu Yönerge, 2547 sayılı Yükseköğretim Kanunu’na, 24.10.2010 tarihli ve 27561 sayılı
+Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar
+Arasında Geçiş, Çift Anadal, Yan dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin
+Yönetmeliğe, İzmir Bakırçay Üniversitesi Önlisans, Lisans, Eğitim-Öğretim ve Sınav Yönetmeliği’ne
+dayanılarak hazırlanmıştır.
+
+Tanımlar
+Madde 4 - (1) Yönetmelikte geçen:
+a) Anadal Diploma Programı: Öğrencinin Üniversiteye girişte kaydolduğu diploma programını,
+b) Çift Anadal Programı (ÇAP): Başarı koşulunu ve diğer koşulları yerine getiren öğrencilerin Üniversitenin
+iki diploma programından eş zamanlı olarak ders alıp, iki ayrı diplomaya sahip olabilmesini sağlayan
+programı,
+c) Yan dal Programı: Bir lisans diploma programına kayıtlı öğrencilerin öngörülen koşulları taşımaları
+kaydıyla Üniversite içindeki başka bir lisans diploma programı kapsamında belirli bir konuya yönelik
+sınırlı sayıda dersi almak suretiyle diploma yerine geçmeyen bir belgeye (Yan dal Sertifikası) sahip
+olabilmesini sağlayan programı,
+ç) Ağırlıklı Genel Not Ortalaması (AGNO): Öğrencinin almış olduğu tüm derslerin kredilerine göre
+ağırlıklandırılmış not ortalamasını,
+d) Üniversite: İzmir Bakırçay Üniversitesi’ni,
+e) Senato: İzmir Bakırçay Üniversitesi Senatosu’nu,
+f) Birim: İzmir Bakırçay Üniversitesi Fakülte, Yüksekokul veya Meslek Yüksekokulu’nu,
+g) Birim Kurulu/Birim Yönetim Kurulu: İzmir Bakırçay Üniversitesi Fakülte, Yüksekokul ve
+Meslek Yüksekokulu Kurulunu/Yönetim Kurulunu,
+ğ) Dekanlık: İzmir Bakırçay Üniversitesi Fakülte Dekanlıklarını,
+h) Müdürlük:
+İzmir
+Bakırçay
+Üniversitesi
+Meslek
+Yüksekokulu
+veya
+Yüksekokul
+Müdürlüklerini,
+ı) ÖSYS: Öğrenci Seçme ve Yerleştirme Sistemini, ifade eder.
+
+Genel İlkeler
+Madde 5 - (1) Yabancı dil zorunluluğu olan programlarda ÇAP/Yan dal Programına öğrenci
+kabulünde, yabancı dil için ilgili program tarafından istenen koşulları yerine getirmek zorunludur.
+(2) ÇAP/Yan dal Programı için ek sınıf açılmaz. ÇAP/Yan dal Programına başvuran öğrenciler
+o bölümün öğrencileriyle birlikte derslere devam ederler.
+(3) ÇAP ile Yan dal Programındaki dersleri saptamada ve bunların alınacağı yarıyılları planlamada
+öğrencilere danışmanlık yapmak üzere, ilgili Bölüm/Program Başkanlığının önerisi ve Dekanlık/Müdürlük
+onayıyla birer danışman atanır. ÇAP/Yan dal Programı danışmanları, öğrencilerin Anadal diploma
+programındaki danışmanlarıyla iletişim içinde görev yapar.
+
+[Sayfa 2]
+(4) ÇAP/Yan dal Programlarına kayıt yaptıran öğrencilerin Anadal ve ÇAP/Yan dal Programlarında
+seçtikleri dersleri danışmanları tarafından ayrı ayrı onaylanır.
+(5) ÇAP/Yan dal programı açma teklifi ve ÇAP/Yan dal açılması talep edilen programların müfredatları,
+kontenjanları ile varsa özel koşulları ilgili bölümlerin ve fakülte/yüksekokul kurullarının önerisi üzerine
+Senato’nun onayı ile kesinleşir ve ilgili bölümlerin iş birliği ile yürütülür. ÇAP/Yan dal programlarının iş ve
+işlemleri her yıl eğitim-öğretim başlamadan 1 ay öncesine kadar tamamlanır. Programların öğrencisi bulunmayan
+sınıfları için ÇAP/Yan dal programı açma teklifi yapılamaz.
+(6) İlgili Dekanlık/Müdürlük her akademik yılın başında ÇAP/Yan dal programının kontenjanlarını,
+başvuru tarihlerini ve varsa özel şartlarını belirterek ilan eder. ÇAP/Yan dal programının başvuru,
+değerlendirme ve sonuçlarının ilanı ilgili birim tarafından yürütülür.
+(7) ÇAP/Yan dal öğrencileri, Senato’nun eğitim öğretimle ilgili aldığı kararlara uymak zorundadırlar.
+
+İKİNCİ BÖLÜM
+Çift Anadal Programı (ÇAP)
+MADDE 6 - (1)Üniversitede yürütülen önlisans diploma programlarıyla diğer önlisans programları
+arasında, lisans programlarıyla diğer lisans programları veya önlisans programları arasında ilgili bölümlerin ve
+Fakülte/Yüksekokul Kurullarının önerisi ve Senato’nun onayıyla ÇAP açılabilir.
+(2) Öğrencilerin ÇAP’a kabulü, o programın yürütüldüğü ilgili Bölümün/Programın önerisi üzerine ilgili
+birimin Yönetim Kurulu onayıyla yapılır.
+(3) Öğrencinin ÇAP’ ta alması gereken dersleri ve kredileri Yükseköğretim Kurulu tarafından belirlenen
+Yükseköğretim Alan Yeterlilikleri dikkate alınarak ilgili kurulların önerisi üzerine Senato’nun onayıyla
+belirlenir. İlgili ÇAP’ın, öğrencinin programın sonunda asgari olarak kazanması gereken bilgi, beceri ve
+yetkinliklere göre tanımlanmış öğrenim kazanımlarına sahip olmasını sağlayacak şekilde düzenlenmesi gerekir.
+(4) Aynı anda birden fazla ÇAP’a kayıt yapılamaz. Ancak aynı anda ÇAP ile Yan dal Programına kayıt
+yapılabilir.
+(5) ÇAP öğrencisi, Anadal Diploma Programında kurum içi geçiş hükümlerine uygun koşulları sağladığında
+ÇAP’a yatay geçiş yapabilir.
+(6) ÇAP’ta öğrenim gören öğrencinin Anadal Diploma Programında almış olduğu ve eşdeğerlikleri ilgili
+birimin Yönetim Kurulu tarafından kabul edilen dersler, ÇAP’ın not çizelgesinde gösterilir ve ÇAP’a ilişkin
+AGNO hesabına katılır.
+(7) Herhangi bir ÇAP’ta en az bir yarıyıl okuduktan sonra, bu programı bırakarak bir başka ÇAP yada Yan
+dal Programına kayıt yaptıran öğrencilerin ilk programda başarılı oldukları dersler ve kredileri, yeni
+kaydoldukları programda yer alması veya ilgili Yönetim Kurulu tarafından eşdeğer sayılması koşuluyla geçerli
+olur.
+(8) İlgili Dekanlık/Müdürlük, ÇAP/Yan dal Programlarına ait ders ve sınav planlarının hazırlanmasında
+ve öğrencilerin Anadal programlarında alacağı derslerle çakışmasını engelleyecek tüm önlemleri almakla
+yükümlüdür.
+(9) (Ek: 05.06.2024 Tarihli ve 16-06 Sayılı Senato Kararı) Öğrencinin anadal ve çift anadal programında kayıtlanması
+gereken tüm derslerinin çakışması durumunda, ÇAP danışmanının kontrolü ve birim yönetim kurulunun kararı
+ile ÇAP programından alabileceği en fazla iki dersi uzaktan alması mümkündür.
+Başvuru ve Kabul Koşulları
+Madde 7 - (1) Lisans öğrencileri, lisans ve önlisans düzeyindeki programlara, önlisans öğrencileri ise
+yalnızca önlisans programlarına ÇAP için başvurabilirler.
+(2) Öğrenci ÇAP’a başvurusunu, Anadal Lisans Diploma Programında en erken üçüncü yarıyılın
+başında, en geç ise dört yıllık programlarda beşinci yarıyılın başında, altı yıllık programlarda ise dokuzuncu
+yarıyılın başında; Anadal Önlisans Diploma Programında en erken ikinci yarıyılın başında, en geç ise üçüncü
+yarıyılın başında, birimlerin belirleyeceği ve ilan ettikleri süreler içinde yapabilir.
+(3) Başvuru anında Anadal Diploma Programındaki AGNO’su 100 üzerinden en az 80 olan ve Anadal
+Diploma Programının ilgili sınıfında başarı sıralaması itibarıyla en üst %20’sinde bulunan öğrenciler ÇAP’a
+başvurabilirler.
+
+[Sayfa 3]
+a) Hukuk, tıp ve sağlık programlarıyla mühendislik programları hariç olmak üzere, ÇAP’ın
+kontenjanları, programların ilgili yıla ilişkin ÖSYS kontenjanının %20’sinden az olmamak üzere
+ilgili kurullarca belirlenir ve Senatoda onaylanır.
+b) Anadal Diploma Programındaki AGNO’su 100 üzerinden en az 80 olan ancak Anadal Diploma
+Programının ilgili sınıfında başarı sıralaması itibarıyla en üst %20’sinde yer almayan öğrencilerden
+ÇAP yapılacak programın ilgili yıldaki taban puanından az olmamak üzere puana sahip olanlar da
+ÇAP’a başvurabilirler.
+(4) (Değişik: 26.11.2025 Tarihli ve 34-01 Sayılı Senato Kararı) Öğrencinin ÇAP’a başvurabilmesi için başvurduğu
+yarıyıla kadar Anadal Diploma Programındaki müfredatındaki alması gereken tüm dersleri başarıyla
+tamamlamış olması gerekir.
+(5) Başvuru yapılan ÇAP’ın öğrenci kabulünde ÖSYS kılavuzunda yer alan özel koşulların sağlanması
+gerekir.
+Değerlendirme ve Kabul İşlemi
+Madde 8 - (1) ÇAP’a başvurularda sıralama AGNO’ya göre yapılır. Asıl listede olup da kaydını süresi
+içerisinde yaptırmayan öğrencilerin yerine sırasıyla yedekler yerleştirilir.
+Başarı ve mezuniyet
+Madde 9 - (1) (Değişik: 05.06.2024 Tarihli ve 16-06 Sayılı Senato Kararı) Öğrencinin ÇAP’tan mezun olabilmesi için
+anadal programına ait AGNO’sunun 100 üzerinden en az 70 olması gerekir. Mezun olan öğrencilere kayıtlı
+olduğu ÇAP’a ait mezuniyet diploması verilir.
+(2) (Değişik: 05.06.2024 Tarihli ve 16-06 Sayılı Senato Kararı) Tüm çift anadal öğrenimi süresince öğrencinin anadal
+programındaki AGNO’su bir defaya mahsus olmak üzere 100 üzerinden 65’e kadar düşebilir. Anadal
+programındaki AGNO’su ikinci kez 100 üzerinden 70’in altına düşen öğrencinin ÇAP’tan kaydı silinir.
+(3) ÇAP’a devam eden öğrenciye mezuniyet diploması ancak devam ettiği Anadal Diploma
+Programından mezun olması halinde verilebilir.
+(4) ÇAP’ta öğrenim gören öğrencinin Anadal Diploma Programında almış olduğu ve eşdeğerlikleri kabul
+edilen dersler mezuniyet aşamasında ÇAP not çizelgesinde gösterilir.
+(5) Anadal diploma programından mezuniyet hakkını elde eden ancak ÇAP’ı bitiremeyen öğrencilerin
+öğrenim süresi, ÇAP’a kayıt yaptırdığı eğitim-öğretim yılından itibaren 2547 sayılı Kanun’un 44 üncü
+maddesinin (c) fıkrasında belirtilen azami süredir. Programların normal süresini aşan öğrenciler katkı payı /
+öğrenim ücreti bakımından ilgili mevzuat hükümlerine tabidir.
+(6) ÇAP’ta iki yarıyıl üst üste kayıt yenileme işlemi yapmayan öğrencinin ÇAP’tan kaydı silinir.
+(7) ÇAP’tan kaydı silinen öğrencilerin, ÇAP’ta almış oldukları derslerin ne şekilde değerlendirileceği,
+ilgili birim yönetim kurulunun önerisi üzerine Senato tarafından belirlenir.
+(8) (Değişik: 05.06.2024 Tarihli ve 16-06 Sayılı Senato Kararı) Kayıtlı olduğu Anadal Diploma Programında kayıt
+donduran ya da Değişim Programına katılan öğrenci, ÇAP’ta da kayıt dondurmuş sayılır.
+(9) Öğrencinin ÇAP’tan kaydının silinmesi halinde ÇAP’ta aldığı derslerin, bu programın ilk iki yılında
+alması gereken dersleri karşılaması ve bu yönergede belirtilen diğer mezuniyet koşullarını sağlaması durumunda
+öğrenciye önlisans mezuniyet diploması verilir.
+ÜÇÜNCÜ BÖLÜM
+Genel İlkeler
+Yan dal Programı
+Madde 10 - (1) Üniversite, başvuru koşullarını ilgili Kurulların önerisi ve Senato’nun onayıyla
+belirleyerek Yan dal Programlarını düzenleyebilir.
+(2) Yan dal Programlarının kontenjanları, yan dal programının açılmasını teklif eden ilgili Yönetim
+Kurulu tarafından belirlenir.
+(3) Başvurular, o programın yürütüldüğü ilgili Yönetim Kurulu tarafından değerlendirilir.
+(4) Yan dal Programı lisans diploma programları arasında uygulanır. Önlisans diploma programlarına
+kayıtlı öğrenciler Yan dal Programına başvuramazlar.
+(5) Yan dal Programına başvurusu kabul edilen öğrenci, Yan dal Programı kapsamında, Senato
+kararıyla belirlenmiş olan dersleri almak ve bu dersleri başarmak zorundadır.
+(6) Yan dal Programı için öğrencilerin aldıkları derslerin kaydı, Anadal Diploma Programlarından ayrı
+tutulur. Bir öğrencinin kayıtlı olduğu Yan dal Programında aldığı derslerin ortalaması, anadal AGNO’sundan
+ayrı hesaplanır.
+
+[Sayfa 4]
+(7) (Eklendi: 09.10.2024 Tarihli ve 29-02 Sayılı Senato Kararı) Öğrencinin anadal ve yan dal programında
+kayıtlanması gereken tüm derslerinin çakışması durumunda, yan dal danışmanının kontrolü ve birim yönetim
+kurulunun kararı ile yan dal programından alabileceği bir dersi uzaktan alması mümkündür.
+
+Başvuru ve Kabul Koşulları
+Madde 11 - (1) Öğrenci, Yan dal Programına, Anadal Diploma Programının en erken üçüncü, en geç
+altıncı yarıyılının başında başvurabilir.
+(2) Başvurduğu yarıyıla kadar lisans programından aldığı tüm kredili dersleri başarıyla tamamlamış
+olan öğrenciler, birimlerin belirleyeceği ve ilan ettikleri süreler içinde Yan dal Programına başvurabilir.
+(3) Öğrencinin başvuru sırasında Anadal Diploma Programındaki AGNO’sunun 100 üzerinden en az
+70 olması gerekir.
+Değerlendirme ve Kabul İşlemi
+Madde 12 - (1) Yan dal Programına başvurularda sıralama AGNO’ya göre yapılır. Asıl listede olup da
+kaydını süresi içerisinde yaptırmayan öğrencilerin yerine sırasıyla yedekler yerleştirilir.
+(2) Yan dal Programına kabul işlemi, ilgili Yönetim Kurulu Kararıyla kesinleşir.
+Başarı ve mezuniyet
+Madde 13 - (1)Öğrencinin Yan dal Programına devam edebilmesi için Anadal Diploma Programındaki
+not ortalamasının 100 üzerinden en az 60 olması şarttır. Bu koşulu sağlayamayan öğrencinin Yan dal
+Programından kaydı silinir.
+(2) Anadal Diploma Programından mezuniyet hakkını elde eden, ancak Yan dal Programını bitiremeyen
+öğrencilere en fazla iki yarıyıl ek süre tanınır.
+(3) Öğrencinin Yan dal Programındaki başarı durumu, Anadal Diploma Programındaki mezuniyetini
+etkilemez.
+(4) Yan dal Programı öğrencisi, öğrenim süresinin herhangi bir yarıyılında Yan dal Programını kendi
+isteğiyle bırakabilir. Yan dal Programından kayıt sildiren öğrenci, aynı Yan dal Programına tekrar kayıt
+yaptıramaz.
+(5) Yan dal Programından iki yarıyıl üst üste ders almayan öğrencilerin Yan dal programından kaydı
+silinir.
+(6) Yan dal Programını tamamlayanlara eğitim aldıkları alanda sadece başarı belgesi (Yan dal
+Sertifikası) düzenlenir. Bu belge diploma yerine geçmez.
+(7) Kayıtlı olduğu Anadal Diploma Programında kayıt donduran öğrenci, Yan dal Programında da kayıt
+dondurmuş sayılır.
+(8) Öğrencinin Yan dal Programından kaydının silinmesi halinde; Yan dal Programında öğrenim
+gördüğü sırada başarılı olduğu dersler, ilgili Yönetim Kurulu kararıyla kayıtlı olduğu Anadal Diploma
+Programındaki seçmeli derslere eşdeğer sayılabilir.
+Yürürlük
+Madde 14 - (1) Bu Yönerge, İzmir Bakırçay Üniversitesi Senatosu’nda kabul edildiği tarihten itibaren
+geçerlidir.
+
+Yürütme
+Madde 15 - (1) Bu Yönerge hükümlerini İzmir Bakırçay Üniversitesi Rektörü yürütür.
+
+Yönergenin Yürürlüğe Girdiği Senato Kararının
+Tarihi
+Sayısı
+21.11.2019
+24-05
+
+25.12.2019
+28-01
+05.06.2024
+16-06
+09.10.2024
+29-02
+26.11.2025
+34-01
